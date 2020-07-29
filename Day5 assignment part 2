@@ -1,0 +1,7 @@
+### sort using 1 loop
+list1=[10,20,40,60,70,80]
+list2=[5,15,25,35,45,60]
+list3=list1+list2
+for each in range(5,81):
+  if each in list3:
+      print(each)
